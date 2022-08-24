@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "benchdamic"]
+	path = benchdamic
+	url = https://github.com/mcalgaro93/benchdamic
+	shallow = true
+	registered = true
